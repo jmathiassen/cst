@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+<ItemGroup>
+    <ProjectReference Include="../TgrDevelopments.Cst.Packs.Dart/TgrDevelopments.Cst.Packs.Dart.csproj" />
+    <ProjectReference Include="../TgrDevelopments.Cst/TgrDevelopments.Cst.csproj" />
+  </ItemGroup>
+
+</Project>

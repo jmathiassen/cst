@@ -1,0 +1,30 @@
+namespace TgrDevelopments.Cst.Packs.FSharp;
+
+internal enum FsTokenKind
+{
+    Eof = -1,
+    Identifier = 1,
+    StringLiteral,
+    NumericLiteral,
+    KwNamespace,
+    KwModule,
+    KwType,
+    KwLet,
+    KwRec,
+    KwMember,
+    KwAnd,
+    KwOpen,
+    Newline,
+    Indent,
+    Dedent,
+    Eq,
+    LParen,
+    RParen,
+    LBrace,
+    RBrace,
+    LBracket,
+    RBracket,
+    Colon,
+    Dot,
+    Other,
+}
