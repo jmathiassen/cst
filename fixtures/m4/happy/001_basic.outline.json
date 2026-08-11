@@ -1,0 +1,47 @@
+{
+  "languageId": "m4",
+  "quality": "Structural",
+  "nodes": [
+    {
+      "kind": "macro",
+      "label": "gl_BUILD_TO_HOST",
+      "level": 1,
+      "from": 2,
+      "to": 6,
+      "children": [
+        {
+          "kind": "call",
+          "label": "AC_REQUIRE",
+          "level": 2,
+          "from": 4,
+          "to": 4,
+          "children": []
+        },
+        {
+          "kind": "call",
+          "label": "AC_CONFIG_COMMANDS",
+          "level": 2,
+          "from": 5,
+          "to": 5,
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": "call",
+      "label": "AC_INIT",
+      "level": 1,
+      "from": 7,
+      "to": 7,
+      "children": []
+    },
+    {
+      "kind": "include",
+      "label": "m4/extra.m4",
+      "level": 1,
+      "from": 8,
+      "to": 8,
+      "children": []
+    }
+  ]
+}

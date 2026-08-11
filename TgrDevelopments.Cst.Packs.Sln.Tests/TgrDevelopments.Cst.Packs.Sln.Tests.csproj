@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+<ItemGroup>
+    <ProjectReference Include="../TgrDevelopments.Cst.Packs.Sln/TgrDevelopments.Cst.Packs.Sln.csproj" />
+    <ProjectReference Include="../TgrDevelopments.Cst/TgrDevelopments.Cst.csproj" />
+  </ItemGroup>
+
+</Project>

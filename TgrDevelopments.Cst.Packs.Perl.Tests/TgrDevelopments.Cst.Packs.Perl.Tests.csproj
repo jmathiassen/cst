@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="../TgrDevelopments.Cst.Packs.Perl/TgrDevelopments.Cst.Packs.Perl.csproj" />
+    <ProjectReference Include="../TgrDevelopments.Cst/TgrDevelopments.Cst.csproj" />
+    <ProjectReference Include="../TgrDevelopments.Cst.TestHelpers/TgrDevelopments.Cst.TestHelpers.csproj" />
+  </ItemGroup>
+</Project>
